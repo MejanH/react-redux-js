@@ -1,3 +1,7 @@
+# Basic Counter app with `redux` and `react-redux`
+
+Used `connect()` instead of `useSelector` and `useDispatch`. Also, Used store as a global like context api in react.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
